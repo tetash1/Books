@@ -8,7 +8,6 @@ import com.krishna.fileloader.FileLoader;
 import com.krishna.fileloader.listener.FileRequestListener;
 import com.krishna.fileloader.pojo.FileResponse;
 import com.krishna.fileloader.request.FileLoadRequest;
-
 import java.io.File;
 
 public class MainActivity extends AppCompatActivity {
